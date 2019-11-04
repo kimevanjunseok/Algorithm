@@ -16,7 +16,7 @@
 
 - 알고리즘 문제 풀이
 
-### [Baejoon Online Jubge](/Baejoon_Online_Jubge)
+### [Baekjoon Online Jubge](/Baekjoon_Online_Judge)
 
 - 
 
