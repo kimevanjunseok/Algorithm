@@ -16,11 +16,11 @@
 
 - 알고리즘 문제 풀이
 
-### [Baekjoon Online Jubge](/Baekjoon_Online_Judge)
+### Baekjoon Online Jubge [Link](/Baekjoon_Online_Judge)
 
 - 
 
-### [Programmers](/programmers)
+### Programmers [Link](/programmers)
 
 - [level1](/programmers/level1)
 - [level2](/programmers/level2)
@@ -28,14 +28,14 @@
 - [level4](/programmers/level4)
 - [2018 KAKAO BLIND RECRUITMENT](/programmers/2018_KAKAO_BLIND_RECRUITMENT)
 
-### [SW Expert Academy](/SW_Expert_Academy)
+### SW Expert Academy [Link](/SW_Expert_Academy)
 
 - [Programming Intermediate](/SW_Expert_Academy/Programming_Intermediate)
 - [Programming Advanced](/SW_Expert_Academy/Programming_Advanced)
 - [모의SW역량테스트](/SW_Expert_Academy/모의SW역량테스트)
 - [역량테스트대비문제](/SW_Expert_Academy/역량테스트대비문제)
 
-### [Sort](/Sort)
+### Sort [Link](/Sort)
 
 - [MergeSort](/Sort/MergeSort.py)
 - [QuickSort](/Sort/QuickSort.py)
