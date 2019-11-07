@@ -37,5 +37,7 @@
 
 ### Sort [Link](/Sort)
 
+- [BubbleSort](/Sort/BubbleSort.py)
+- [SelectionSort](/Sort/SelectionSort.py)
 - [MergeSort](/Sort/MergeSort.py)
 - [QuickSort](/Sort/QuickSort.py)
